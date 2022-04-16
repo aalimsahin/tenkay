@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tenkay/static/css/main.b2b5b878.css",
+    "main.js": "/tenkay/static/js/main.261b3306.js",
+    "static/js/787.82ea7be1.chunk.js": "/tenkay/static/js/787.82ea7be1.chunk.js",
+    "static/media/res5.png": "/tenkay/static/media/res5.12fb5ab4b5d481258786.png",
+    "static/media/res4.png": "/tenkay/static/media/res4.be47200385a922f19b9d.png",
+    "static/media/res2.png": "/tenkay/static/media/res2.9826f0f74352fab6e77d.png",
+    "static/media/res1.png": "/tenkay/static/media/res1.c988773d8c4e31945b8f.png",
+    "static/media/background.png": "/tenkay/static/media/background.ecd9c7d0fe5612ac7b73.png",
+    "static/media/text3.png": "/tenkay/static/media/text3.854dbf6585e8ca44287a.png",
+    "index.html": "/tenkay/index.html",
+    "main.b2b5b878.css.map": "/tenkay/static/css/main.b2b5b878.css.map",
+    "main.261b3306.js.map": "/tenkay/static/js/main.261b3306.js.map",
+    "787.82ea7be1.chunk.js.map": "/tenkay/static/js/787.82ea7be1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2b5b878.css",
+    "static/js/main.261b3306.js"
+  ]
+}
