@@ -1,23 +1,11 @@
-import logo from './logo.svg';
+import logo from './assets/text3.png';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+        <img className='coming' alt="ITU Blockchain" id="1" src={logo} style={{width: "60%", position: "absolute", display: "flex", top: "75%", left: "25%"}} />
+
     </div>
   );
 }
