@@ -41,7 +41,7 @@ body {
 
 @media (max-width: 710px) {
   body {
-    background: url(assets/res5.png) no-repeat center center fixed;
+    background: url(assets/res6.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -50,7 +50,7 @@ body {
   .coming {
     width: 70% !important;
     left: 18% !important;
-    top: 55% !important;
+    top: 65% !important;
   }
 }
 
